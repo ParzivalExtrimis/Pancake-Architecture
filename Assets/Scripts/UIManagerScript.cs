@@ -10,7 +10,7 @@ using System.Threading;
 
 public class UIManagerScript : MonoBehaviour {
 
-    private static string URL = "http://localhost:7122/api/StartCore";
+    private static string URL = "https://corebackendfunctionapp.azurewebsites.net/api/StartCore";
 
     public InputField EmailInput;
     public InputField nameInput;
