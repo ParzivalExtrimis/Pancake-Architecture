@@ -1,0 +1,47 @@
+# Unity generated
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+
+# Visual Studio / MonoDevelop generated
+.vs/
+/*.csproj*/
+/*.sln*/
+/*.userprefs*/
+
+# Other files
+/*.pidb*/
+/*.suo*/
+/*.sln.docstates/
+
+# Build pipeline
+/Builds/
+
+# TextMesh Pro files
+/[Aa]ssets/TextMesh*Pro/
+
+# Android generated files
+/[Aa]ssets/Plugins/Android/
+
+# Gradle build files
+/Assets/Plugins/Android/*.gradle
+/Assets/Plugins/Android/*.properties
+
+# iOS Xcode files
+/[Aa]ssets/Plugins/iOS/
+
+# macOS
+/[Aa]ssets/Plugins/macOS/
+
+# Build output (for example, Xcode build output)
+/Build/
+
+# Crashlytics build output
+/crashlytics-build.properties
+
+# Build artifacts
+/Builds/
+
+# Upgrade files
+/ProjectSettings/ProjectVersion.txt
